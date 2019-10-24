@@ -1,0 +1,17 @@
+import solucion.*
+
+describe "Tests invocadores" {
+	var guilleTox = new Toxico()
+	var debiPosi = new Positivo() 
+	//var quien = new Invocador() 
+	   // esto lo voy a hacer????
+	   // NO. Como no lo quiero instanciar,
+	   // Invocador es una clase abstracta.
+	
+	test "¿Qué debo testear para asegurarme que está TODA
+          la lógica cubierta? 
+        ¿Es lo mismo testear a guille con 0 de ego que con 1? 
+        ¿Y con 99?" {
+		
+	}
+}
